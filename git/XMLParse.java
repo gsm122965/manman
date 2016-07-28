@@ -1,5 +1,4 @@
-/**
- * 对公众平台发送给公众账号的消息加解密示例代码.
+﻿/**
  * 
  * @copyright Copyright (c) 1998-2014 Tencent Inc.
  */
@@ -21,7 +20,6 @@ import org.xml.sax.InputSource;
 /**
  * XMLParse class
  *
- * 提供提取消息格式中的密文及生成回复消息格式的接口.
  */
 class XMLParse {
 
