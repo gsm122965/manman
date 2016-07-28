@@ -24,9 +24,8 @@ import org.xml.sax.InputSource;
 class XMLParse {
 
 	/**
-	 * 提取出xml数据包中的加密消息
 	 * @param xmltext 待提取的xml字符串
-	 * @return 提取出的加密消息字符串
+	 * @return 
 	 * @throws AesException 
 	 */
 	public static Object[] extract(String xmltext) throws AesException     {
